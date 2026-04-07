@@ -9,14 +9,14 @@ Cybersecurity
 My journey in Information Technology has led me to many different passions but I have my eyes set on the cybersecurity feild, as I have virtually have no experience, I am aiming to join anywhere as I.T help support. 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+[Provide skills and associated project.
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+[Provide tools and break them down into categories.
 
 ### Network
 <div>
