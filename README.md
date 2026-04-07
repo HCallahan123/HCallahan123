@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hello, I'm Hunter
+<a href="https://www.linkedin.com/in/hunter-callahan-85a0733b8/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<!--
-**HCallahan123/HCallahan123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student at the University of North Carolina at Pembroke with a love for computers and an interest in solving problems. 
 
-Here are some ideas to get you started:
+## Objective
+Cybersecurity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My journey in Information Technology has led me to many different passions but I have my eyes set on the cybersecurity feild, as I have virtually have no experience, I am aiming to join anywhere as I.T help support. 
+
+## Skills
+[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+
+
+## Tools
+[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
+### Network
+<div>
+    
+</div>
+
+### Endpoint
+<div>
+   
+</div>
+
+### SIEM
+<div>
+   
+</div>
+
+## Certifications
+[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+<div>
+
+</div>
+
+## Projects
