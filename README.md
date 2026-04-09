@@ -9,14 +9,14 @@ Cybersecurity
 My journey in Information Technology has led me to many different passions but I have my eyes set on the cybersecurity field, as I have virtually have no experience, I am aiming to join anywhere as at a help desk position.
 
 ## Skills
-[Provide skills and associated project.
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 
 
 ## Tools
-[Provide tools and break them down into categories.
+
 
 ### Network
 <div>
