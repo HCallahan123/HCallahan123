@@ -34,7 +34,6 @@ My journey in Information Technology has led me to many different passions but I
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 
 </div>
